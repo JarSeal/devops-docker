@@ -1,0 +1,5 @@
+Published image in hub.docker.com:
+https://hub.docker.com/r/norppa55/jays-sons-server
+
+Source code:
+https://github.com/JarSeal/jays-sons-server
